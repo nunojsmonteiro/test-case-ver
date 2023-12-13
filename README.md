@@ -15,3 +15,7 @@ Follow these steps to get your project up and running.
    ```bash
    git clone https://github.com/nunojsmonteiro/test-case-ver.git
    cd test-case-ver
+   
+## JSON File
+
+The JSON file it's not available because I don't know if it has private data. 
